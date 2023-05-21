@@ -1,4 +1,4 @@
-# SoPra FS23 - Client Template with build pack
+#Client Template with build pack
 
 ## Getting started
 
