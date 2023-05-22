@@ -1,6 +1,6 @@
 # Lottery-System-Blockchain-Challenge-Task
 This is the repository of challenge task for Blockchain and Overlay Networks Course 2023 Spring at UZH.
-* https://www.csg.uzh.ch/csg/en/teaching/FS23/p2p/challenge.html 
+* https://www.csg.uzh.ch/csg/en/teaching/FS23/p2p/challenge.html (you may need the vpn of UZH to access the course materials)
 ## Please follow the steps to run the system
 First, you have to run "npm install" in the server and client, and then the server runs the file "interect.js", which uses "nodeinteract.js". The client uses "npm run dev" to run.
 How to use the platform:
