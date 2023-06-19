@@ -1,4 +1,4 @@
-# Lottery-System-Blockchain-Challenge-Task
+# Lottery-System-Blockchain-Challenge-Task (BCOLN Challenge Reward, 2023)
 This is the repository of challenge task for Blockchain and Overlay Networks Course 2023 Spring at UZH.
 * https://www.csg.uzh.ch/csg/en/teaching/FS23/p2p/challenge.html (you may need the vpn of UZH to access the course materials)
 ## Please follow the steps to run the system
